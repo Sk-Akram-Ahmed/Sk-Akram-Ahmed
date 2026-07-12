@@ -8,13 +8,9 @@
 
 🎓 B.Tech Computer Science Student  
 💻 Passionate about building scalable Full Stack applications  
-🤖 Interested in Artificial Intelligence, Machine Learning &amp; LLMs  
-🔐 Learning Cybersecurity &amp; Threat Intelligence  
+🤖 Interested in Backend Development
 🌱 Currently learning  
-MERN Stack  
-Deep Learning  
-Transformers  
-RAG Pipelines  
+MERN Stack    
 Cloud Technologies
 
 ### 🛠️ Tech Stack
@@ -69,10 +65,6 @@ Cloud Technologies
 </p>
 
 ### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/Sk-Akram-Ahmed">Sk-Akram-Ahmed</a></i></p>
